@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-season-animate.svg)
+:pleading_face:
 
 <!--
 **ioComk/ioComk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
